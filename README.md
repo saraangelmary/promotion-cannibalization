@@ -41,5 +41,9 @@ Walmart Recruiting Store Sales Forecasting Dataset from Kaggle.
 - Cannibalization effect identified using counterfactual sales.
 - Promotional sales trends analyzed successfully.
 
+## Live Dashboard
+Streamlit App:
+https://promotion-cannibalization-yszqrbzbocze3b6whlx4xj.streamlit.app/
+
 ## Author
 Sara Angel Mary J
