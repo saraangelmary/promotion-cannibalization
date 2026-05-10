@@ -1,0 +1,2 @@
+model,RMSE,MAE,runtime_seconds,throughput_rows_per_sec
+RandomForest,287008.6494202839,100777.13320615646,123.64764523506165,619.4295075688331
